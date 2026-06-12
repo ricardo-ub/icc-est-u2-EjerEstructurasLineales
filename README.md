@@ -6,6 +6,7 @@
 - **Fecha:** 12/06/02026
 
 - **URL del release: 2.0.2:** 
+https://github.com/ricardo-ub/icc-est-u2-EjerEstructurasLineales/releases/tag/v1.0.0
 
 
 ---
