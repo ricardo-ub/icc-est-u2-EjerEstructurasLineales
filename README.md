@@ -6,7 +6,7 @@
 - **Fecha:** 12/06/02026
 
 - **URL del release: 2.0.2:** 
-https://github.com/ricardo-ub/icc-est-u2-EjerEstructurasLineales/releases/tag/v1.0.0
+https://github.com/ricardo-ub/icc-est-u2-EjerEstructurasLineales/releases/tag/v2.0.2
 
 
 ---
@@ -67,3 +67,11 @@ Salida de consola:
 **Salidas consola: Ejercicio 1, 2 y 3**
 
 ![alt text](assets/SalidasConsola1,2,3.png)
+
+---
+
+**Conclusiones:**
+
+- La práctica permitió comprender el funcionamiento de las pilas en Java y cómo aplican el principio LIFO, donde el último elemento en ingresar es el primero en salir.
+- También se identificó el uso de las colas y el principio FIFO, en el que el primer elemento que entra es el primero en ser atendido o eliminado.
+- Además, se reforzó la importancia de respetar las restricciones establecidas en cada ejercicio y de mantener una correcta organización del código dentro de un proyecto.
